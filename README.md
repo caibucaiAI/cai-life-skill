@@ -43,7 +43,7 @@ cai-life-skill/
 
 | 模块 | skill name | 管什么 |
 |------|-----------|--------|
-| **life-os**（主） | `life-os` / `cai-life-skill-v2` | 核心系统：自我认知、决策框架、心理盲点、周复盘 |
+| **life-os**（主） | `life-os` / `cai-life-skill` | 核心系统：自我认知、决策框架、心理盲点、周复盘 |
 | **life-money** | `life-money` | 财务的事：财务知识、报价决策、接单判断 |
 | **life-health** | `life-health` | 健康的事：体检报告、症状日志、就诊归档、健康决策 |
 | **life-jobhunt** | `life-jobhunt` | 求职的事：公司调研、面试纪要、offer 决策、行业 insight |
